@@ -33,5 +33,5 @@ Makefile
 moc_*
 ui_*
 qrc_*
-travis_qmake_gcc_cpp98_qt_qtest
-travis_qmake_gcc_cpp98_qt_qtest_test
+travis_qmake_gcc_cpp11_qt_qtest
+travis_qmake_gcc_cpp11_qt_qtest_test
