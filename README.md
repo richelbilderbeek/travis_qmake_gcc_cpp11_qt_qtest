@@ -19,7 +19,7 @@ More complex builds:
  * C++14: [travis_qmake_gcc_cpp14_qt_qtest](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_qt_qtest)
 
 Less complex builds:
- * Use Qt4: [travis_qmake_gcc_cpp14_qt4_qtest](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_qt4_qtest)
- * Use Qt5: [travis_qmake_gcc_cpp14_qt4_qtest](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp14_qt5_qtest)
+ * Use Qt4: [travis_qmake_gcc_cpp11_qt4_qtest](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp11_qt4_qtest)
+ * Use Qt5: [travis_qmake_gcc_cpp11_qt4_qtest](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp11_qt5_qtest)
  * C++98: [travis_qmake_gcc_cpp98_qt_qtest](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp98_qt_qtest)
  * Qt only: [travis_qmake_gcc_cpp11_qt](https://www.github.com/richelbilderbeek/travis_qmake_gcc_cpp11_qt)
